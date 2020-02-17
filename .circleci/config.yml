@@ -14,10 +14,6 @@ jobs:
          command:
            dotnet build
      - run:
-         name: Chnage Directories 
-         command:
-           cd DockerExampleForTeam
-     - run:
          name: Run App
          command:
-           dotnet run
+           dotnet run --project DockerExampleForTeam/DockerExampleForTeam.csproj
