@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockerExampleForTeam", "DockerExampleForTeam\DockerExampleForTeam.csproj", "{95292D9A-F9C6-4CA9-B350-E37A2346ADB5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockerTest", "DockerTest\DockerTest.csproj", "{29F2D8E8-51C5-4009-B7AB-AA69761C96A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{95292D9A-F9C6-4CA9-B350-E37A2346ADB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95292D9A-F9C6-4CA9-B350-E37A2346ADB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95292D9A-F9C6-4CA9-B350-E37A2346ADB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29F2D8E8-51C5-4009-B7AB-AA69761C96A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29F2D8E8-51C5-4009-B7AB-AA69761C96A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29F2D8E8-51C5-4009-B7AB-AA69761C96A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29F2D8E8-51C5-4009-B7AB-AA69761C96A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
